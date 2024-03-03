@@ -1,0 +1,1 @@
+make main && ./main 5 26 1 0 | python3 plot.py
